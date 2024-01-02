@@ -1,0 +1,14 @@
+/Users/cyruskorir/CodeProjects/CSProjects/PremierLeague/bin/Debug/net8.0/PremierLeague
+/Users/cyruskorir/CodeProjects/CSProjects/PremierLeague/bin/Debug/net8.0/PremierLeague.deps.json
+/Users/cyruskorir/CodeProjects/CSProjects/PremierLeague/bin/Debug/net8.0/PremierLeague.runtimeconfig.json
+/Users/cyruskorir/CodeProjects/CSProjects/PremierLeague/bin/Debug/net8.0/PremierLeague.dll
+/Users/cyruskorir/CodeProjects/CSProjects/PremierLeague/bin/Debug/net8.0/PremierLeague.pdb
+/Users/cyruskorir/CodeProjects/CSProjects/PremierLeague/obj/Debug/net8.0/PremierLeague.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyruskorir/CodeProjects/CSProjects/PremierLeague/obj/Debug/net8.0/PremierLeague.AssemblyInfoInputs.cache
+/Users/cyruskorir/CodeProjects/CSProjects/PremierLeague/obj/Debug/net8.0/PremierLeague.AssemblyInfo.cs
+/Users/cyruskorir/CodeProjects/CSProjects/PremierLeague/obj/Debug/net8.0/PremierLeague.csproj.CoreCompileInputs.cache
+/Users/cyruskorir/CodeProjects/CSProjects/PremierLeague/obj/Debug/net8.0/PremierLeague.dll
+/Users/cyruskorir/CodeProjects/CSProjects/PremierLeague/obj/Debug/net8.0/refint/PremierLeague.dll
+/Users/cyruskorir/CodeProjects/CSProjects/PremierLeague/obj/Debug/net8.0/PremierLeague.pdb
+/Users/cyruskorir/CodeProjects/CSProjects/PremierLeague/obj/Debug/net8.0/PremierLeague.genruntimeconfig.cache
+/Users/cyruskorir/CodeProjects/CSProjects/PremierLeague/obj/Debug/net8.0/ref/PremierLeague.dll
